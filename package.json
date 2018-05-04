@@ -1,0 +1,24 @@
+{
+  "name": "xoxo",
+  "version": "1.0.0",
+  "description": "A function that checks if a string has the same amount of 'x's and 'o's. The method should return a boolean and be case insensitive. The string can contain any char.",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nzediegwu1/XoXo.git"
+  },
+  "keywords": [
+    "TDD",
+    "Testing",
+    "and",
+    "Debugging"
+  ],
+  "author": "anaeze nsoffor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nzediegwu1/XoXo/issues"
+  },
+  "homepage": "https://github.com/nzediegwu1/XoXo#readme"
+}
